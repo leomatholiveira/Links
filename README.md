@@ -1,4 +1,4 @@
-<h1 align="center"> Copa-NLW-Web #01 </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 Programa voltado ao meu perfil profissional ft.Rocketseat
